@@ -1,4 +1,3 @@
-27-10-2018-Prezentacja-Apple-30-października 
 Spodziewaliśmy się, że Apple zechce jeszcze coś nam pokazać przed sezonem świątecznym. Spodziewaliśmy się też, że będzie to jeszcze w październiku.
 
 I nie zawiedliśmy się. 30 października, w nowojorskiej dzielnicy Brooklyn, zaproszeni dziennikarze zobaczą nowe produkty Apple. Dla każdego, kto nie dostał zaproszenia, pozostaje oglądanie przekazu na żywo, choć tym razem będzie się to działo w trakcie dnia roboczego - prezentacja rusza o godzinie 15.00 naszego czasu. Najłatwiejszym sposobem na zapamiętanie tego wydarzenia jest wejście na [dedykowaną stronę](https://www.apple.com/apple-events/) i stuknięcie/kliknięcie w link „Add to your calendar”. W notce będzie od razu zapisany adres strony, na której zobaczycie przekaz z prezentacji.
