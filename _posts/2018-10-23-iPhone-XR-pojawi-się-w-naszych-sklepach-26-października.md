@@ -1,3 +1,7 @@
+---
+title: iPhone XR pojawi się w naszych sklepach 26 października
+---
+
 Drugi z nowych modeli iPhone, *XR*, zmierza do naszych sklepów. Zanim pobiegniecie i dokonacie zakupu, przeczytajcie o podstawowych różnicach między tym modelem, a iPhone XS.
 
 Najważniejsza rzecz to ekran - w modelu XR jest to LCD, według Apple bardzo zbliżony parametrami do ekranów OLED obecnych w modelu XS. Ma on też być lepszy od tych, które znamy z wcześniejszych modeli iPhone. Niewątpliwie widoczną różnicą są nieco szersze ramki po bokach ekranu, co jest równoważone przez zwiększoną (w stosunku do XS) przekątną.
