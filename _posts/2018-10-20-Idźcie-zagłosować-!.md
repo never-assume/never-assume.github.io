@@ -1,3 +1,8 @@
+---
+title: Idźcie zagłosować!
+categories: Opinie
+---
+
 Po prostu pójdźcie i oddajcie głos. Wysoka frekwencja pokazuje, że nam zależy i podnosi też reprezentatywność wyborów. 
 
 Gdyby potrzebna była Wam dodatkowa zachęta, to oglądnijcie ten filmik (przygotowany dla Amerykanów, jednak idealnie oddający sytuację):
