@@ -1,10 +1,10 @@
 # main links
-main:
-  - title: "Compliance"
-    url: /_Compliance/
-  - title: "Sprzęt"
-    url: /_Sprzęt/
-  - title: "Aplikacje"
-    url: /_Aplikacje/
-  - title: "Opinie"
-    url: /_Opinie/
+# main:
+  #- title: "Compliance"
+  #  url: /_Compliance/
+  #- title: "Sprzęt"
+  #  url: /_Sprzęt/
+  #- title: "Aplikacje"
+  #  url: /_Aplikacje/
+  #- title: "Opinie"
+  #  url: /_Opinie/
