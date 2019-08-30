@@ -280,6 +280,21 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  Opinie:
+    output: true
+    permalink: /:collection/:path/
+  Sprzęt:
+    output: true
+    permalink: /:collection/:path/
+  Compliance:
+    output: true
+    permalink: /:collection/:path/
+  Aplikacje:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
