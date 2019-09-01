@@ -1,0 +1,3 @@
+test
+plik
+moje dane
