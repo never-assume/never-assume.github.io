@@ -2,7 +2,6 @@
 title: NetNewsWire - Nowy czytnik RSS dla macOS
 categories: Aplikacje
 tags: macOS
-date: 2019-09-01
 ---
 Po dość burzliwej historii, nazwa oraz kod źródłowy [NetNewsWire][1] wróciły do pierwotnego właściciela. Brent Simmons zabrał się do programowania i stworzył wersję 5.0, by każdy mógł wygodnie czytać RSS na swoim Macu. Będzie pasować każdemu, bez względu na to, czy dopiero zaczyna czytać w ten sposób, czy też od lat pochłania tak informacje. Na razie nie ma wersji na iOS, prace jednak trwają.
 
