@@ -1,4 +1,3 @@
-2019-09-03-Skróty-klawiaturowe-w-iOS
 ---
 title: Skróty klawiaturowe w iOS
 categories: Aplikacje
