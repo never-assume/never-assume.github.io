@@ -1,5 +1,4 @@
 2019-10-14-Recenzje-nowych-iPhone-11
-
 ---
 title: Recenzje iPhone 11 i moje własne doświadczenia z iPhone 11 Pro
 categories: Sprzęt
