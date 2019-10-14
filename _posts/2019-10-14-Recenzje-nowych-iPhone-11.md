@@ -1,9 +1,9 @@
-2019-10-14-Recenzje-nowych-iPhone-11
 ---
 title: Recenzje iPhone 11 i moje własne doświadczenia z iPhone 11 Pro
 categories: Sprzęt
 tags: Apple, iPhone
 ---
+
 Jest parę recenzji nowych produktów Apple na które zawsze czekam. To [Daring Fireball](https://daringfireball.net/2019/09/the_iphone_11_and_iphones_11_pro), [The Loop](https://www.loopinsight.com/2019/09/20/review-iphones-11/) i [Austin Mann](http://austinmann.com/trek/iphone-11-pro-review-china%0AiPhone%2011%20Pro%20Camera%20Review). Bardzo Wam je polecam, bo teksty te są przygotowane przez osoby, które robią to zawodowo i mają zdrowe podejście do produktów Apple. W przypadku Austina Manna dochodzi jeszcze fakt, że jest on profesjonalnym fotografem i nie waha się używać nowych rozwiązań na codzień.
 
 **A teraz moje obserwacje na temat iPhone 11 Pro (oczywiście w kolorze zielonym!)**
