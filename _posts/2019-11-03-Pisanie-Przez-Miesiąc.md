@@ -1,5 +1,3 @@
-2019-11-03-Pisanie-Przez-Miesiąc
-
 ---
 title: Zamierzam pisać codziennie przez cały listopad
 categories: 
