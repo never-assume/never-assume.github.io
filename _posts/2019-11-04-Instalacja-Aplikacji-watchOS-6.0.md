@@ -1,5 +1,3 @@
-2019-11-04-Instalacja-Aplikacji-watchOS-6.0
-
 ---
 title: Jeśli macie problem z instalacją aplikacji na Apple Watch...
 categories: Aplikacje
