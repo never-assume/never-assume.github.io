@@ -1,5 +1,3 @@
-2019-11-06-Papierowy-Prezent
-
 ---
 title: Papierowy prezent
 categories: Sprzęt
