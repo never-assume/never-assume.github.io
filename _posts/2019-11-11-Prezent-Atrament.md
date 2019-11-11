@@ -1,5 +1,3 @@
-2019-11-11-Prezent-Atrament
-
 ---
 title: Prezent - atrament
 categories: Sprzęt
