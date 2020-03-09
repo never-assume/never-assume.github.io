@@ -1,5 +1,3 @@
-2020-03-04-Bond-powróci
-
 ---
 title: Bond powróci. W listopadzie.
 categories: Rozrywka
