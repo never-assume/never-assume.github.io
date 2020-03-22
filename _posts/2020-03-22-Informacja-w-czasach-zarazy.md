@@ -1,5 +1,3 @@
-2020-03-22-Informacja-w-czasach-zarazy
-
 ---
 title: Informacja w czasach zarazy
 categories: Opinie
